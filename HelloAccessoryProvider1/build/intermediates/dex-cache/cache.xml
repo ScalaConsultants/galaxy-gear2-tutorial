@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-772cdb6c79af2922098ef46449aa51899f74eab7.jar"
+        jar="C:\Users\Adam\android-sdks\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-0d2fc1fdafb944b95a64a101a43509ff50814e2b.jar"
+        jar="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\pre-dexed\debug\classes-17692b5c02897f2596a4041bc43d9c4a1a49168a.jar"
+        jar="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\pre-dexed\debug\accessory-v1.0.0-9850e24bfa28500c5439d86a02ec61310d6af3cf.jar"
+        jar="C:\FoW\HelloAccessoryProvider1\app\libs\accessory-v1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44336fa3a0e04949d791610ab214eeea1deac8c3"/>
+    <item
+        dex="C:\FoW\HelloAccessoryProvider1\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-f96d7eae26b624e68ff8efdf7f4eafdd32539041.jar"
+        jar="C:\FoW\HelloAccessoryProvider1\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c"/>
+
+</pre-dex-items>
